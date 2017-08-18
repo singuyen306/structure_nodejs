@@ -14,7 +14,7 @@
     + index.js : chỉ để làm nhiệm vụ điều hướng, hỗ trợ routers
 
 - models:
-    + entity: viết logic của ứng dụng ở trong này. gọi đến table models để truy xuất dữ liệu và trả ra cho + controller
+    + entity: viết logic của ứng dụng ở trong này. gọi đến table models để truy xuất dữ liệu và trả ra cho controller
     + tables: chứa các file models truy xuất dữ liệu, validation dữ liệu
     + behaviors: các hàm dùng chung sẽ được viết ở đây
 
